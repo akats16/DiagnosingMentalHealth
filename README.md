@@ -1,4 +1,4 @@
-# DiagnosingMentalHealth
+# Diagnosing Mental Health
 
 
 The Research Domain Criteria (RDoC) is a framework developed by the National Institute of Mental Health (NIMH) that aims to describe functioning across several psychological domains and neurobiological levels of analysis1. To a degree, the domains and techniques specified by the RDoC matrix reflect current research priorities and may influence the scope of planned research programs. The RDoC matrix originally included five domains: (1) negative and (2) positive valence; (3) cognitive systems; (4) social processes; and (5) arousal and regulatory systems. In January 2019, a sixth sensorimotor systems domain focusing on motor control and learning was added to the RDoC.
